@@ -1,0 +1,40 @@
+h1{color: blue;
+background-color: rgba(0, 162, 255, 0.363);
+text-transform: uppercase;}
+
+
+body{
+    font-family: 'Sans-Serif' 'Courier New', Courier, "Verdana";
+font-size: 120%;
+margin: 8px;
+}
+
+header{background-color: rgb(219, 231, 204);
+text-decoration:none;
+text-align: center;}
+
+
+nav a{
+	color:brown;
+	font-size:20px;
+	text-align:left;
+    text-decoration: none;}	
+
+
+
+main{background-color: rgb(230, 230, 166);}
+
+footer{background-color: rgb(233, 195, 146);
+font-family:serif;
+}
+
+li{background-color:blanchedalmond;
+color:rgb(0, 0, 255)
+}
+
+p{font-family: "Verdana"}
+
+header{
+	background-color: rgb(219, 231, 204);
+text-decoration:none;
+text-align: center;}
